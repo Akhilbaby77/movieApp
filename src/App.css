@@ -1,0 +1,38 @@
+.search-results {
+    padding-top: 2%;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.search-result {
+    padding: 5% 2%;
+    border-radius: 50px;
+    background-color: blanchedalmond;
+}
+
+.search-bar {
+    padding: 5% 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.search-bar input {
+    padding: 1% 1%;
+    border-radius: 50px;
+    border: 1px solid black;
+}
+
+.search-bar button {
+    padding: .9% 1.5%;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    margin-left: 1%;
+    border-radius: 50px;
+}
