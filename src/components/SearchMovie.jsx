@@ -37,22 +37,7 @@ function SearchBar({ onSearch })
       setIsLoading(false);
     }
   };
-  // const style = {
-  //   backgroundColor: 'white',
-  //   color: 'black',
-  //   marginBottom: '10px',
-  //   textAlign: 'center',
-  // };
-  // const movieflxstyle = {
-  //   display: 'flex',
-  //   backgroundColor: 'white',
-  //   color: 'black',
-  //   padding: '10px',
-  //   textAlign: 'center',
-  //   flexDirection: 'row',
-  //   flexWrap: 'wrap',
-  //   justifyContent: 'space-around',
-  // };
+  
   return (
     <div >
       <div className='search-bar'>
